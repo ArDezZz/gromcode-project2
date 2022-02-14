@@ -59,12 +59,12 @@
         justify-content: center;
     }
     &__text {
+        text-align: center;
         margin: 0;
         margin: 40px 26px 40px 26px;
         font-weight: 300;
         font-size: 15px;
         line-height: 18px;
-        text-align: center;
     }
     &__options-list {
         list-style-type: none;
@@ -115,6 +115,7 @@
         font-size: 14px;
         outline: none;
         border: transparent;
+        color: #FFFFFF;
         background: #5BB189;
     }
     &__color-blue {
