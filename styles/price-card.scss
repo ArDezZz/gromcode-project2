@@ -8,19 +8,18 @@
         margin-right: 0;
     }
     &__square {
-        display: flex;
-        justify-content: center;
-        align-items: center;
+        display: block;
         position: absolute;
-        left: 265px;
-        top: 25px;
-        color: #FFFFFF;
         width: 147px;
-        height: 25px;
+        top: 30px;
+        right: -30px;
         background: #dc3f45;
-        transform: rotate(45deg);
-        font-weight: bold;
+        font-weight: 700;
         font-size: 14px;
+        line-height: 25px;
+        text-align: center;
+        transform: rotate(45deg);
+        color: #FFFFFF;
     }
     &__title-container {
         display: flex;
