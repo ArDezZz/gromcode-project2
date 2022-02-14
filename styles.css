@@ -6,6 +6,7 @@
   margin-right: 18px;
   position: relative;
   overflow: hidden;
+  color: #FFFFFF;
 }
 .price-card:last-child {
   margin-right: 0;
@@ -22,7 +23,6 @@
   line-height: 25px;
   text-align: center;
   transform: rotate(45deg);
-  color: #FFFFFF;
 }
 .price-card__title-container {
   display: flex;
@@ -50,7 +50,6 @@
   font-weight: 700;
   font-size: 55px;
   line-height: 67px;
-  color: #FFFFFF;
   width: 380px;
   height: 105px;
   background: #5BB189;
@@ -67,7 +66,6 @@
   font-size: 15px;
   line-height: 18px;
   text-align: center;
-  color: #FFFFFF;
 }
 .price-card__options-list {
   list-style-type: none;
@@ -83,7 +81,6 @@
   font-weight: 300;
   font-size: 15px;
   line-height: 18px;
-  color: #FFFFFF;
 }
 .price-card__list-item:nth-child(odd) {
   background: #2a3438;
@@ -117,7 +114,6 @@
   margin-top: 39px;
   border-radius: 20px;
   font-size: 14px;
-  color: white;
   outline: none;
   border: transparent;
   background: #5BB189;
