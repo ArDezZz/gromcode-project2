@@ -45,20 +45,17 @@
   color: #FFFFFF;
   font-weight: 300;
 }
-.price-card__price-container {
+.price-card__price {
+  font-weight: 700;
+  font-size: 55px;
+  line-height: 67px;
+  color: #FFFFFF;
   width: 380px;
   height: 105px;
   background: #5BB189;
   display: flex;
   align-items: center;
   justify-content: center;
-}
-.price-card__price {
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 67px;
-  text-align: center;
-  color: #FFFFFF;
 }
 .price-card__text-container {
   display: flex;
