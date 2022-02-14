@@ -21,7 +21,6 @@
         align-items: center;
         font-weight: bold;
         font-size: 14px;
-        text-transform: uppercase;
     }
     &__title-container {
         position: relative;
@@ -97,9 +96,6 @@
         width: 300px;
         margin-left: 22px;
         opacity: 1;
-        &:nth-child(odd) {
-            opacity: 0.5;
-        }
     }
     &__list-image {
         margin-left: 22px;
@@ -108,24 +104,21 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        margin-left: 112px;
-        margin-top: 39px;
         width: 155px;
         height: 40px;
+        margin-left: 112px;
+        margin-top: 39px;
         border-radius: 20px;
         font-size: 14px;
         color: white;
         outline: none;
         border: transparent;
-        cursor: pointer;
+        background: #5BB189;
     }
-    &__blue {
+    &__color-blue {
         background: #3A6BA5;
     }
-    &__orange {
+    &__color-orange {
         background: #EC632A;
-    }
-    .btn_1 {
-        background: #5bb189;
     }
 }
