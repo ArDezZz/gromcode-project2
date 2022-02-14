@@ -1,6 +1,6 @@
 # Price cards layout
 
-### [Site link](ardezzz.github.io/gromcode-project2/)
+### [Site link](https://ardezzz.github.io/gromcode-project2/)
 
 Layout supports desktop (up-to-1400) versions
 
