@@ -8,6 +8,8 @@
         margin-right: 0;
     }
     &__square {
+        position: relative;
+        overflow: hidden;
         display: block;
         position: absolute;
         width: 147px;
@@ -29,19 +31,17 @@
         position: relative;
         overflow: hidden;
         height: 130px;
+        color: #FFFFFF;
     }
     &__title {
-        margin: 0;
+        font-weight: 700;
         font-size: 35px;
         line-height: 43px;
-        font-weight: 700;
-        color: #FFFFFF;
     }
     &__website {
+        font-weight: 300;
         font-size: 20px;
         line-height: 24px;
-        color: #FFFFFF;
-        font-weight: 300;
     }
     &__price {
         display: flex;

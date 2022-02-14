@@ -9,6 +9,8 @@
   margin-right: 0;
 }
 .price-card__square {
+  position: relative;
+  overflow: hidden;
   display: block;
   position: absolute;
   width: 147px;
@@ -30,19 +32,17 @@
   position: relative;
   overflow: hidden;
   height: 130px;
+  color: #FFFFFF;
 }
 .price-card__title {
-  margin: 0;
+  font-weight: 700;
   font-size: 35px;
   line-height: 43px;
-  font-weight: 700;
-  color: #FFFFFF;
 }
 .price-card__website {
+  font-weight: 300;
   font-size: 20px;
   line-height: 24px;
-  color: #FFFFFF;
-  font-weight: 300;
 }
 .price-card__price {
   display: flex;
