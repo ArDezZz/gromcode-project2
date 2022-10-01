@@ -1,6 +1,6 @@
 # Price cards layout
 
-### [Site link](https://ardezzz.github.io/gromcode-project2/)
+### [Site link](https://price-card-dezester.netlify.app/)
 
 Layout supports desktop (up-to-1400) versions
 
